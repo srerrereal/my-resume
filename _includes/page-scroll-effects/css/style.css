@@ -109,11 +109,11 @@ Main Components
 
 }
 [data-animation="parallax"] .cd-section:nth-of-type(2) > div {
-  background-image: url("../img/saints.jpg");
+  background-image: url("../_includes/img/saints.jpg");
   width: 100%;
 }
 [data-animation="parallax"] .cd-section:nth-of-type(3) > div {
-  background-image: url("../img/orlando.jpg");
+  background-image: url("../_includes/img/orlando.jpg");
   width: 100%;
 }
 
