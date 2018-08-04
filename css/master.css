@@ -80,20 +80,20 @@ left: 0px;
 
 }
 [data-animation="parallax"] .cd-section:nth-of-type(2) > div {
-  background-image: url("../img/saints.jpg");
+  background-image: url("../_includes/img/saints.jpg");
   width: 100%;
 }
 [data-animation="parallax"] .cd-section:nth-of-type(3) > div {
-  background-image: url("../img/orlando copy.jpg");
+  background-image: url("../_includes/img/orlando copy.jpg");
   width: 100%;
 }
 [data-animation="parallax"] .cd-section:nth-of-type(4) > div {
-background-image: url('../img/skill-bg.jpg');
+background-image: url('../_includes/img/skill-bg.jpg');
 width: 100%;
 
 }
 [data-animation="parallax"] .cd-section:nth-of-type(5) > div {
-  background-image: url('../img/about.jpg');
+  background-image: url('../_includes/img/about.jpg');
   width: 100%;
   opacity: .5;
 
